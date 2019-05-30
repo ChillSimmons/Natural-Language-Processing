@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Exploring NLP, utilizing SpaCy, NLTK, and other tools
+Exploring NLP, utilizing SpaCy, NLTK, and various other tools
