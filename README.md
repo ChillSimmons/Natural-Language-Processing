@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Exploring NLP, utilizing SpaCy, NLTK, and various other tools
+Utilizing SpaCy, NLTK, and other tools to explore various NLP techniques including Latent Semantic Analysis, Sentiment Analysis, and Text Classification
